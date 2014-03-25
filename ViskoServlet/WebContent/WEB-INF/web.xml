@@ -2,7 +2,7 @@
 <web-app xmlns:web="http://xmlns.jcp.org/xml/ns/javaee">
   <servlet>
     <servlet-name>myservlet</servlet-name>
-    <servlet-class>com.servlets.HelloWorldServlet</servlet-class>
+    <servlet-class>com.servlets.TestServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>myservlet</servlet-name>
